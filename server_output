@@ -1,0 +1,9 @@
+Server listening on 127.0.0.1:12345...
+Connection established with ('127.0.0.1', 50463)
+Client: hi,let's chat programming
+Server: I'm in! what do you code with?
+Client: Mainly python
+Server: Awesome!
+Client has disconnected.
+
+Process finished with exit code 0
